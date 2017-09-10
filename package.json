@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/galuhsahid/kapitalisasi-judul#readme",
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.0"
   },
   "devDependencies": {
     "mocha": "^3.5.1"
