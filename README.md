@@ -4,6 +4,8 @@ kapitalisasi-judul adalah sebuah modul sederhana yang berguna untuk mengapitalis
 
 Modul ini dapat digunakan langsung di *command line* maupun sebagai modul NPM yang dapat digunakan untuk keperluan lain.
 
+![kapitalisasi-judul](https://raw.githubusercontent.com/galuhsahid/kapitalisasi-judul/master/screencap.png)
+
 ## 📖 referensi
 
 Tautan-tautan di bawah merupakan referensi yang saya gunakan dalam pembuatan modul ini:
@@ -38,6 +40,12 @@ Sementara itu, apabila Anda ingin menggunakan kapitalisasi-judul di *command lin
 
 ```
 $ npm install -g kapitalisasi-judul
+```
+
+Apabila Anda ingin menjalankan tes untuk modul ini, Anda bisa membuka direktori modul ini kemudian menjalankan perintah:
+
+```
+mocha
 ```
 
 ## contoh penggunaan
