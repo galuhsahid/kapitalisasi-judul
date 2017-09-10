@@ -1,0 +1,38 @@
+{
+  "name": "kapitalisasi-judul",
+  "version": "0.1.0",
+  "description": "Modul untuk mengapitalisasi judul secara otomatis sesuai dengan EYD",
+  "main": "kapitalisasi-judul/index.js",
+  "bin": {
+    "kapitalisasi-judul": "kapitalisasi-judul/cli.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galuhsahid/kapitalisasi-judul.git"
+  },
+  "keywords": [
+    "bahasa",
+    "indonesia",
+    "kapitalisasi",
+    "judul",
+    "EYD"
+  ],
+  "author": "Galuh Sahid <galuh.tunggadewi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galuhsahid/kapitalisasi-judul/issues"
+  },
+  "homepage": "https://github.com/galuhsahid/kapitalisasi-judul#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+  },
+  "devDependencies": {
+    "mocha": "^3.5.1"
+  }
+}
