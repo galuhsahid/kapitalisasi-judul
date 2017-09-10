@@ -12,6 +12,12 @@ Tautan-tautan di bawah merupakan referensi yang saya gunakan dalam pembuatan mod
 - ["Kapitalisasi Judul"](https://beritagar.id/artikel/tabik/kapitalisasi-judul)
 - [Pembahasan mengenai kata tugas](https://id.wikibooks.org/wiki/Bahasa_Indonesia/Partikel)
 
+Berdasarkan referensi-referensi di atas, berikut aturan-aturan yang diterapkan untuk mengapitalisasi judul:
+1. Ikuti aturan kapitalisasi kalimat.
+2. Kapitalisasikan semua unsur kata ulang sempurna.
+3. Kapitalisasikan semua kata yang tidak termasuk kata tugas.
+4. Kapitalisasikan kata tugas bila terletak pada posisi awal judul.
+
 ## 📜 fitur-fitur
 
 - Mengapitalisasi judul secara otomatis sesuai dengan aturan EYD
