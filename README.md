@@ -23,9 +23,6 @@ Berdasarkan referensi-referensi di atas, berikut aturan-aturan yang diterapkan u
 - Mengapitalisasi judul secara otomatis sesuai dengan aturan EYD
 - Mengapitalisasi judul dengan pilihan opsi untuk mengabaikan beberapa kata yang diinginkan
 
-## 💡 pengembangan
-- Penggunaan opsi pada terminal
-
 ## 💭 isu dan kontribusi
 
 Berikut adalah beberapa isu yang perlu untuk diselesaikan:
